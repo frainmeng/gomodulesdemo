@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gomodulesdemo/testmod"
+	"github.com/frainmeng/gomodulesdemo/testmod"
 )
 
 func main() {
